@@ -1,0 +1,58 @@
+Index of plain text: 0.05404514324183993
+Encrypt file with key 2
+Genetate key with value: цс
+Index for encrypted text with key length 2: 0.04569208384252578
+File was encrypted
+Encrypt file with key 3
+Genetate key with value: кид
+Index for encrypted text with key length 3: 0.040768299833570575
+File was encrypted
+Encrypt file with key 4
+Genetate key with value: жчпк
+Index for encrypted text with key length 4: 0.03628082547416593
+File was encrypted
+Encrypt file with key 5
+Genetate key with value: юоиуъ
+Index for encrypted text with key length 5: 0.0340597921902547
+File was encrypted
+Encrypt file with key 15
+Genetate key with value: дцюсомншуязюаьы
+Index for encrypted text with key length 15: 0.03212107691487619
+File was encrypted
+Try to decrypt your text...
+Index to block length 2: 0.03601169237810904
+Index to block length 3: 0.03387986324214053
+Index to block length 4: 0.036035183875542276
+Index to block length 5: 0.033720571970933574
+Index to block length 6: 0.03607857628569725
+Index to block length 7: 0.04359155147692471
+Index to block length 8: 0.03602840357855787
+Index to block length 9: 0.03403180293120579
+Index to block length 10: 0.03601302964015297
+Index to block length 11: 0.03390516472496654
+Index to block length 12: 0.0360316352225337
+Index to block length 13: 0.033918819008839855
+Index to block length 14: 0.05487720352944096
+Index to block length 15: 0.03376817158860645
+Index to block length 16: 0.036040087393739186
+Index to block length 17: 0.03362523004307489
+Index to block length 18: 0.036375582219663034
+Index to block length 19: 0.033580969798973015
+Index to block length 20: 0.035808311254287836
+Index to block length 21: 0.04370734573086701
+Index to block length 22: 0.03598736830167131
+Index to block length 23: 0.0342063008950006
+Index to block length 24: 0.035845026807383155
+Index to block length 25: 0.03344155779445324
+Index to block length 26: 0.03622949100195134
+Index to block length 27: 0.03418309572283837
+Index to block length 28: 0.05490198725492843
+Index to block length 29: 0.033781026862097024
+Index to block length 30: 0.03585695693737577
+Index to block length 31: 0.034078230988032775
+Potentional key length with period: [14, 28]
+We find key length: 14
+Key: чкгунныенебеиа
+Modify key: чугунныенебеса
+Try to decrypt text with key чугунныенебеса...
+We decrypt your text!
