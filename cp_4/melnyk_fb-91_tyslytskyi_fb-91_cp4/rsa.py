@@ -28,6 +28,7 @@ def decrypt_message_RSA(C, d, n):
 
 def sign_message_RSA(M, d, n):
     S = horner_scheme(M, d, n)
+    print(f"Signed message with S: {S}")
     return S
 
 def sign_verification(M, S, e, n):

@@ -62,6 +62,7 @@ def generate_prime_numbers(number_len):
 
     f.close()
     prostoe.sort()
+    print(f"Generate 4 numbers [p, q, p1, q1]: {prostoe}")
 
     return prostoe
 
